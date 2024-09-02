@@ -18,3 +18,7 @@ To address this security event, the network security team implemented:
 - Network monitoring software to detect abnormal traffic patterns
 - An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
+<hr>
+
+![](/docs/ira1.png)
+![](/docs/ira2.png)
